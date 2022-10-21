@@ -5,8 +5,8 @@
     "identifierType": "license"
   },
   "frameworkIntegration": {
-    "enabled": false,
-    "resource": "your-resource",
+    "enabled": true,
+    "resource": "ox_inventory",
     "syncInitialBankBalance": true
   },
   "database": {
