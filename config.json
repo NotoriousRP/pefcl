@@ -7,7 +7,7 @@
   "frameworkIntegration": {
     "enabled": true,
     "resource": "ox_inventory",
-    "syncInitialBankBalance": true
+    "syncInitialBankBalance": false
   },
   "database": {
     "profileQueries": true
